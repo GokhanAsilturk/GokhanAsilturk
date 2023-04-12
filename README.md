@@ -1,8 +1,10 @@
 <div align="center">
-<h1>Hi, I’m Gokhan :) </h1>
   
-🔭 I’m currently working on my skills.<br>🧐 I’m looking for help with exploring new technologies.<br>
-🌱 I’m currently learning more about Backend Development.<br>🏁 Hobbies: Video games and sports.<br>
+<h1>👋 Hi , Welcome to My Dark Side :) </h1>
+  
+🔭 I’m currently working on my skills.<br>
+🌱 currently learning more about Backend Development.<br>
+🏁 Hobbies: Video games, camping and gym.<br>
 💬 Ask me about any tech-related stuff.<br>📫 How to reach me: gokhanasilturkk@gmail.com<br>
   
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
