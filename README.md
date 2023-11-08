@@ -39,9 +39,6 @@
 
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=GokhanAsilturk&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 
 <img src="https://b1694534.smushcdn.com/1694534/wp-content/uploads/2021/06/28.jpeg?lossy=1&strip=1&webp=1" width="400px"/>
 
