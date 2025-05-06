@@ -5,7 +5,7 @@
 🔭 I’m currently working on my skills.<br>
 🌱 currently learning more about Backend Development.<br>
 🏁 Hobbies: Video games, camping and gym.<br>
-💬 Ask me about any tech-related stuff.<br>📫 How to reach me: gokhanasilturkk@gmail.com<br>
+💬 Ask me about any tech-related stuff.<br>📫 How to reach me: gokhan.asilturk@gokhanasilturk.com <br>
   
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
   
